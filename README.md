@@ -1,1 +1,1 @@
-# InsightX app
+# InsightX.app
